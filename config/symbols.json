@@ -1,0 +1,24 @@
+{
+    "symbols": [
+        {
+            "symbol": "RS_99",
+            "description": "RS 99th Percentile Threshold"
+        },
+        {
+            "symbol": "RS_90",
+            "description": "RS 90th Percentile Threshold"
+        },
+        {
+            "symbol": "RS_70",
+            "description": "RS 70th Percentile Threshold"
+        },
+        {
+            "symbol": "RS_50",
+            "description": "RS 50th Percentile Threshold"
+        },
+        {
+            "symbol": "RS_30",
+            "description": "RS 30th Percentile Threshold"
+        }
+    ]
+}
